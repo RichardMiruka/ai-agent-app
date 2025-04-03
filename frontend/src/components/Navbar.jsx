@@ -1,3 +1,5 @@
+// The navbar component has your navigation links,
+//  which lets you navigate between pages using react-router.
 import { Link, useLocation } from 'react-router';
 
 function Navbar() {
